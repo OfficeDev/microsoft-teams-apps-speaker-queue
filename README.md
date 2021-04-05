@@ -10,7 +10,7 @@ urlFragment: microsoft-teams-apps-speaker-queue
 
 # Speaker Queue App Template
 
-| [Overview](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki/Architecture) |
+| [Overview](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki/Deployment-Guide) | [Frequently Asked Questions](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki/Frequently-Asked-Questions) |
 | ---- | ---- | ---- |
 
 Speaker Queue is a Teams meetings extensibility application created to improve your meetings. It can be used to define topics and control the time assigned to each speaker during online meetings. The application uses Microsoft dataverse to store information about your meeting and associate the set of topics that are going to be used to coordinate speaker while the meeting happens.
