@@ -1,14 +1,25 @@
-# Project
+---
+page_type: sample
+languages:
+- PowerApps
+products:
+- office-teams
+description: Speaker Queue is a Teams meetings extensibility app template created to improve your meetings and control time assigned for each topic/speaker 
+urlFragment: microsoft-teams-apps-speaker-queue
+---
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+# Speaker Queue App Template
 
-As the maintainer of this project, please make a few updates:
+| [Overview](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-speaker-queue/wiki/Architecture) |
+| ---- | ---- | ---- |
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Speaker Queue is a Teams meetings extensibility application created to improve your meetings. It can be used to define topics and control the time assigned to each speaker during online meetings. The application uses Microsoft dataverse to store information about your meeting and associate the set of topics that are going to be used to coordinate speaker while the meeting happens.
+
+## Requirements
+
+You will need permissions to load a Microsoft dataverse solution into Teams as well as Teams administrator permissions to publish the application manifest to all users in your company.
+
+The application uses only Microsoft dataverse for teams and standard Power Apps connectors. No Power Apps premium licenses are required to use the app in your environment. 
 
 ## Contributing
 
